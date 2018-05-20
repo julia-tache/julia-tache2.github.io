@@ -1,2 +1,1 @@
-# julia-tache2.github.io
-Final Project
+# julia-tache.github.io
